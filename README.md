@@ -1,3 +1,5 @@
+# Line Bot basic ID:@424mzrae
+
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
